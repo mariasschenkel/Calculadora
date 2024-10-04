@@ -1,0 +1,96 @@
+.calculadora{
+    width: 300px;
+    height: 500px;
+    background-color: black;
+    align-items: center;
+    margin-left: 450px;
+    border-radius: 20px;
+    position: relative;
+    top: 15px;
+    -webkit-box-shadow: 32px 35px 69px -8px rgba(0,0,0,0.75);
+-moz-box-shadow: 32px 35px 69px -8px rgba(0,0,0,0.75);
+box-shadow: 32px 35px 69px -8px rgba(0,0,0,0.75);
+}
+.numero{
+    width: 60px;
+    height: 60px;
+    border-radius: 100px;
+    background-color: rgb(87, 87, 87);
+    position: relative;
+    top: 35px;
+    left: 25px;
+    margin-bottom: 5px;
+    color: white;
+}
+.numero1{
+    width: 60px;
+    height: 60px;
+    border-radius: 100px;
+    background-color: rgb(87, 87, 87);
+    position: relative;
+    top: -30px;
+    left: 89px;
+    margin-bottom: 5px;
+    color: white;
+}
+.simbolo{
+    width: 60px;
+    height: 60px;
+    border-radius: 100px;
+    background-color: rgb(154, 154, 154);
+    position: relative;
+    top: 35px;
+    left: 25px;
+    margin-bottom: 5px;
+    color: white;
+}
+.simbolo1{
+    width: 60px;
+    height: 60px;
+    border-radius: 100px;
+    background-color: rgb(255, 90, 25);
+    position: relative;
+    top: 35px;
+    left: 25px;
+    margin-bottom: 5px;
+    color: white;
+}
+.simbolo2{
+    width: 60px;
+    height: 60px;
+    border-radius: 100px;
+    background-color: rgb(255, 90, 25);
+    position: relative;
+    top: -30px;
+    left: 89px;
+    margin-bottom: 5px;
+    color: white;
+}
+.tela{
+    width: 219px;
+    height: 58px;
+    background-color: white;
+    position: relative;
+    top: 10px;
+    left: 10px;
+    color: #000000;
+    border-radius: 20px;
+    padding: 32px;
+    font-size: 25px;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+img{
+    width: 50px;
+    float: left;
+    position: relative;
+    left: -3px;
+}
+h3{
+    position: relative;
+    top: 10px;
+    left: 10px;
+}
+
+body{
+    background-color: rgb(222, 222, 222);
+}
